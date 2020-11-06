@@ -1,0 +1,172 @@
+﻿Country,Americas,International Calling Code,Mobile Prefix,Size of NSN,Carrier,Notes
+Anguilla,TRUE,1,264 772,10,,NANP member
+Antigua and Barbuda,TRUE,1,268 7xx,10,,NANP member
+Argentina,TRUE,54,15-Sep,?,"All carriers: Claro, Movistar, Personal, Tuenti",15 before the local number but after long distance area code for national calls (0 11 15 xxxx-xxxx) and 9 placed after the international access code excluding the 15 for international calls (+54 9 11 xxxx-xxxx).
+Aruba,TRUE,297,,7,,
+Bahamas,TRUE,1,242 35x,10,,NANP member
+Bahamas,TRUE,1,242 45x,10,,NANP member
+Bahamas,TRUE,1,242 55x,10,,NANP member
+Barbados,TRUE,1,246,10,AT&T Wireless (formerly),"NANP member, no mobile-specific prefix"
+Barbados,TRUE,1,246,10,Digicel,"NANP member, no mobile-specific prefix"
+Barbados,TRUE,1,246,10,LIME,"NANP member, no mobile-specific prefix"
+Barbados,TRUE,1,246,10,Sunbeach,"NANP member, no mobile-specific prefix"
+Belize,TRUE,501,6,7,Mobile Smart,
+Bermuda,TRUE,1,441,10,,"NANP member, no mobile-specific prefix"
+Bolivia,TRUE,591,6,?[3],,
+Bolivia,TRUE,591,7,?[3],,
+Brazil,TRUE,55,xx 9,11,,"Mobile phones use geographic area codes (two digits): after that, all numbers assigned to mobile service have nine digits, starting with 9 (example: +55 15 99999-9999). The possible range goes from 91 to 99: 90 is not possible, because collect calls start with this number.[4]"
+British Virgin Islands,TRUE,1,284,10,,"NANP member, no mobile-specific prefix"
+Canada,TRUE,1,No clear distinction between land and cell numbers. Area code structure: N-X-Y N is not 0 or 1 X is not 9 X ‚â† Y,10,,"Mobile phones use geographic area codes. Many exchange codes contain primarily mobile devices; local numbers are portable between wired and wireless carriers. While area code 600 has been established as a non-geographic code that can be used by mobile phones, the only significant mobile usage has been for satellite phone service in remote regions."
+Cayman Islands,TRUE,1,345,10,,"NANP member, no mobile-specific prefix"
+Chile,TRUE,56,9,9,"All carriers: Movistar, Claro, Entel, WOM, Virgin Mobile, etc.","Example: +56 9 1234 5678 dialed from Chilean or foreign mobile phones, with or without blank spaces."
+Colombia,TRUE,57,30x,10,Tigo,
+Colombia,TRUE,57,310,10,Claro,
+Colombia,TRUE,57,311,10,Claro,
+Colombia,TRUE,57,312,10,Claro,
+Colombia,TRUE,57,313,10,Claro,
+Colombia,TRUE,57,314,10,Claro,
+Colombia,TRUE,57,315,10,Movistar,
+Colombia,TRUE,57,316,10,Movistar,
+Colombia,TRUE,57,317,10,Movistar,
+Colombia,TRUE,57,318,10,Movistar,
+Colombia,TRUE,57,319,10,Movistar,Operated by Virgin Mobile
+Colombia,TRUE,57,32x,10,Claro,
+Colombia,TRUE,57,"350, 351",10,Avantel,
+Costa Rica,TRUE,506,6,8,Movistar,Users can switch carriers while keeping number and prefix (so prefixes are not tightly coupled to a specific carrier).
+Costa Rica,TRUE,506,7,8,Claro,Users can switch carriers while keeping number and prefix (so prefixes are not tightly coupled to a specific carrier).
+Costa Rica,TRUE,506,8,8,Instituto Costarricense de Electricidad (K√∂lbi),Users can switch carriers while keeping number and prefix (so prefixes are not tightly coupled to a specific carrier).
+Cuba,TRUE,53,5,?,ETECSA,
+Curacao and the Caribbean Netherlands,TRUE,599,??,?,,See Cura√ßao and the Caribbean Netherlands
+Curacao and the Caribbean Netherlands,TRUE,599,??,?,,
+Dominica,TRUE,1,767 2xx,10,,NANP member
+Dominican Republic,TRUE,1,809,10,,"NANP member, no mobile-specific prefix"
+Dominican Republic,TRUE,1,829,10,,"NANP member, no mobile-specific prefix"
+Dominican Republic,TRUE,1,849,10,,"NANP member, no mobile-specific prefix"
+Ecuador,TRUE,593,8,?,,newest lines
+Ecuador,TRUE,593,9,9,,
+El Salvador,TRUE,503,6,8,,"Users can now switch carriers and keep their cell phone numbers, including prefix."
+El Salvador,TRUE,503,7,8,,"Users can now switch carriers and keep their cell phone numbers, including prefix."
+Falkland Islands,TRUE,500,5,5,,
+Falkland Islands,TRUE,500,6,5,,
+French Guiana,TRUE,594,694,9,,+594 694 xx xx xx
+French Guiana,TRUE,594,700,12?,,(NSN = 12 means +594 700 xxx xxx xxx)
+Greenland,TRUE,299,??,6,,
+Grenada,TRUE,1,473 41x,10,,NANP member
+Guadeloupe,TRUE,590,700,12?,,(NSN = 12 means +590 700 xxx xxx xxx)
+Guatemala,TRUE,502,231,8,Comcel Mobile,
+Guatemala,TRUE,502,2324,8,Comcel Mobile,
+Guatemala,TRUE,502,2326,8,Comcel Mobile,
+Guatemala,TRUE,502,2327,8,Comcel Mobile,
+Guatemala,TRUE,502,2328,8,Comcel Mobile,
+Guatemala,TRUE,502,2329,8,Comcel Mobile,
+Guatemala,TRUE,502,2428,8,Comcel Mobile,
+Guatemala,TRUE,502,2429,8,Comcel Mobile,
+Guatemala,TRUE,502,30,8,Comcel Mobile,
+Guatemala,TRUE,502,310,8,Comcel Mobile,
+Guatemala,TRUE,502,311,8,Comcel Mobile,
+Guatemala,TRUE,502,3120-3128,8,Comcel Mobile,
+Guatemala,TRUE,502,4476-4479,8,Comcel Mobile,
+Guatemala,TRUE,502,448,8,Comcel Mobile,
+Guatemala,TRUE,502,449,8,Comcel Mobile,
+Guatemala,TRUE,502,45,8,Comcel Mobile,
+Guatemala,TRUE,502,46,8,Comcel Mobile,
+Guatemala,TRUE,502,470-476,8,Comcel Mobile,
+Guatemala,TRUE,502,4773-4779,8,Comcel Mobile,
+Guatemala,TRUE,502,478,8,Comcel Mobile,
+Guatemala,TRUE,502,479,8,Comcel Mobile,
+Guatemala,TRUE,502,480,8,Comcel Mobile,
+Guatemala,TRUE,502,481,8,Comcel Mobile,
+Guatemala,TRUE,502,4822-4829,8,Comcel Mobile,
+Guatemala,TRUE,502,483-489,8,Comcel Mobile,
+Guatemala,TRUE,502,49,8,Comcel Mobile,
+Guatemala,TRUE,502,4x,8,,
+Guatemala,TRUE,502,5x,8,,
+Guyana,TRUE,592,6,?,,
+Haiti,TRUE,509,34,?,Comcel (Voil√†),
+Haiti,TRUE,509,39,?,Comcel (Voil√†),
+Haiti,TRUE,509,35,?,Ha√Øtel,
+Haiti,TRUE,509,36,?,Digicel,
+Haiti,TRUE,509,37,?,Digicel,
+Haiti,TRUE,509,38,?,Digicel,
+Haiti,TRUE,509,4x,?,Any carrier,
+Hawaii,TRUE,1,808,10,,
+Honduras,TRUE,504,3,8,Claro,
+Honduras,TRUE,504,7,8,Hondutel,
+Honduras,TRUE,504,8,8,Digicel,
+Honduras,TRUE,504,9,8,Tigo,
+Jamaica,TRUE,1,876,10,,"NANP member, no mobile-specific prefix"
+Martinique,TRUE,596,696,9,,+596 696 xx xx xx
+Martinique,TRUE,596,700,12?,,(NSN = 12 means +596 700 xxx xxx xxx)
+Mexico,TRUE,52,1,10,"Telcel, Movistar, IUSACell, Nextel, UNEFON, Virgin Mobile, Tuenti",+52 then three digits for code area and seven for mobile line ID. Example +52 000 1234567
+Montserrat,TRUE,1,664,10,,"NANP member, no mobile-specific prefix"
+Nicaragua,TRUE,505,8,8,,
+Panama,TRUE,507,6,8,,
+Paraguay,TRUE,595,9xx,9,Tigo,First cellular operator in this country since 1991
+Peru,TRUE,51,9,9,,
+Philippines,TRUE,63,973,10,Express Telecom,
+Philippines,TRUE,63,974,10,Express Telecom,
+Philippines,TRUE,63,905,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,906,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,977,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,915,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,916,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,926,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,927,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,935,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,936,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,937,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,996,10,"Globe Telecom, Touch Mobile",
+Philippines,TRUE,63,997,10,,
+Philippines,TRUE,63,917,10,Globe Telecom,
+Philippines,TRUE,63,979,10,Next Mobile,
+Philippines,TRUE,63,920,10,"Smart Communications, Talk 'N Text, Addict Mobile",
+Philippines,TRUE,63,930,10,"Smart Communications, Talk 'N Text, Red Mobile",
+Philippines,TRUE,63,938,10,"Smart Communications, Talk 'N Text, Red Mobile",
+Philippines,TRUE,63,939,10,"Smart Communications, Talk 'N Text, Red Mobile",
+Philippines,TRUE,63,907,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,908,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,909,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,910,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,912,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,919,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,921,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,928,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,929,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,947,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,948,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,949,10,"Smart Communications, Talk 'N Text",
+Philippines,TRUE,63,989,10,,
+Philippines,TRUE,63,918,10,Smart Communications,
+Philippines,TRUE,63,999,10,"Smart Communications, Red Mobile",
+Philippines,TRUE,63,922,10,Sun Cellular,
+Philippines,TRUE,63,923,10,Sun Cellular,
+Philippines,TRUE,63,932,10,Sun Cellular,
+Philippines,TRUE,63,933,10,Sun Cellular,
+Philippines,TRUE,63,942,10,Sun Cellular,
+Philippines,TRUE,63,943,10,Sun Cellular,
+Puerto Rico,TRUE,1,787,10,,Mobile phones use geographic numbers that cannot be recognized as cell numbers.
+Puerto Rico,TRUE,1,939,10,,Mobile phones use geographic numbers that cannot be recognized as cell numbers.
+Saint Barth√©lemy,TRUE,590,6,?,,See Guadeloupe
+Saint Kitts and Nevis,TRUE,1,869,10,,"NANP member, no mobile-specific prefix"
+Saint Lucia,TRUE,1,758,10,,"NANP member, no mobile-specific prefix"
+Collectivity of Saint Martin,TRUE,590,6,?,,See Guadeloupe
+Saint Pierre and Miquelon,TRUE,508,??,?,,
+Saint Vincent and the Grenadines,TRUE,1,784,10,,"NANP member, no mobile-specific prefix"
+Sint Maarten,TRUE,1,721,10,,"NANP member, no mobile-specific prefix"
+Suriname,TRUE,597,8,?,,
+Trinidad and Tobago,TRUE,1,868,10,Trinidad and Tobago Cellular,"+1-868-620, +1-868-678,+1-868-700 to +1-868-799,+1-868-680 to +1-868-689"
+United States (USA),TRUE,1,No clear distinction between land and cell numbers. Area code structure: N-X-Y N is not 0 or 1 X is not 9 X ‚â† Y,10,,"Mobile phones use geographic area codes. However, there are exchange codes used for only mobile devices. Also, some overlay area codes are only used on mobile devices, or special internet phone systems other than most VoIP systems (e.g.: Google Voice, eFax, eVoice)."
+Uruguay,TRUE,598,91,?,Ancel,
+Uruguay,TRUE,598,93,?,Movistar,
+Uruguay,TRUE,598,94,?,Movistar,
+Uruguay,TRUE,598,95,?,Movistar,
+Uruguay,TRUE,598,96,?,Claro,
+Uruguay,TRUE,598,97,?,Claro,
+Uruguay,TRUE,598,98,?,Ancel,
+Uruguay,TRUE,598,99,?,Ancel,
+Venezuela,TRUE,58,4xx,7,,
+Venezuela,TRUE,58,412,7,Digitel GSM,
+Venezuela,TRUE,58,414,7,Movistar,
+Venezuela,TRUE,58,416,7,Movilnet,
+Venezuela,TRUE,58,424,7,Movistar,
+Venezuela,TRUE,58,426,7,Movilnet,
